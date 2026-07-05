@@ -127,10 +127,12 @@ React • Node.js • Express.js • MongoDB • Socket.io
 
 # 🏆 Competitive Programming
 
-- ⭐ CodeChef 3★ Programmer
-- 💻 Solved 1300+ Coding Problems
-- 🚀 LeetCode Rating 1700+
-- 🔥 Regular Competitive Programming Contest Participant
+- ⭐ **CodeChef 3★ Programmer**
+- 👨‍🎓 **Codeforces Pupil**
+- 🚀 **LeetCode Rating: 1900+**
+- 💻 **Solved 2000+ algorithmic problems** across LeetCode, CodeChef, Codeforces, and other coding platforms.
+- 🏅 **Participated in 100+ coding contests** across LeetCode, CodeChef, and Codeforces.
+- ⚡ Passionate about problem-solving, data structures & algorithms, and writing efficient, optimized solutions.
 
 ---
 
