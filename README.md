@@ -5,9 +5,7 @@
 ### 🚀 Software Engineer | Java Backend Developer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Competitive+Programmer&center=true&width=700&height=50&color=00C2FF&vCenter=true&size=25">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
 </div>
