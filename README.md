@@ -218,8 +218,6 @@ A crowdsourced civic issue reporting platform for efficient communication betwee
 
 ### 💡 *"Consistency, Curiosity, and Continuous Learning are the foundations of Great Software Engineering."* 🚀
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=avina7061&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=avina7061&label=Profile%20Views&color=0e75b6&style=flat" /> 
 
 </div>
