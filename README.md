@@ -1,168 +1,112 @@
 # Hi 👋, I'm Avinash Choudhary
-
 ### Software Engineer | Java Backend Developer | Full Stack Developer | Competitive Programmer
 
-I'm a Computer Science Engineering student passionate about building scalable backend applications, designing RESTful APIs, and solving algorithmic problems.
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-1900+-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-0080FF?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</p>
+
+I'm a Computer Science Engineering student passionate about building scalable backend applications, designing RESTful APIs, and solving complex algorithmic problems. 
 
 I enjoy transforming ideas into real-world applications using Java, Spring Boot, React, Node.js, and modern web technologies. Alongside development, I actively practice Data Structures & Algorithms to strengthen my problem-solving skills and write efficient, maintainable code.
 
 ---
 
-## 👨‍🎓 Education
+## 🛠️ Tech Stack
 
-**Lakshmi Narain College of Technology, Bhopal**
+### 🚀 Languages & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-Bachelor of Technology (Computer Science Engineering)
+### 🎨 Frontend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
----
-
-## 💻 Tech Stack
-
-### Languages
-
-- Java
-- C++
-- JavaScript
-- SQL
-
-### Backend
-
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Node.js
-- Express.js
-
-### Frontend
-
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-
-### Database
-
-- MySQL
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- Maven
-- Postman
-- IntelliJ IDEA
-- VS Code
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚑 HealthRush
+### 🚑 HealthRush 
+> **A full-stack healthcare platform designed to provide quick emergency medical assistance.**
+* **Features:** Online Ambulance Booking, Live Ride Tracking, Fare Estimation, SOS Alert System, Nearby Hospital Suggestions.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
-A full-stack healthcare platform designed to provide quick emergency medical assistance.
+### 🏛️ SahGovern (Backend Developer)
+> **A crowdsourced civic issue reporting platform simplifying citizen-government communication.**
+* **Features:** Secure Auth, Image Upload Support, Complaint Submission APIs, Department-wise Assignment, Status Tracking.
+* **Tech Stack:** `Spring Boot` • `Spring Data JPA` • `Hibernate` • `MySQL` • `REST APIs`
 
-### Features
-
-- Online Ambulance Booking
-- Live Ride Tracking
-- Fare Estimation
-- SOS Alert System
-- Nearby Hospital Suggestions
-- Secure Authentication
-- Responsive User Interface
-
-**Tech Stack**
-
-React • Node.js • Express.js • MongoDB • Tailwind CSS
+### 📚 Sharp
+> **A social platform focused on educational content sharing and collaboration.**
+* **Features:** User Authentication, Real-time Chat via WebSockets, Post Sharing, Notifications, User Profiles.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Socket.io`
 
 ---
 
-## 🏛️ SahGovern
+## 🏆 Competitive Programming
 
-Backend Developer
-
-A crowdsourced civic issue reporting platform developed to simplify communication between citizens and government departments.
-
-### Developed Features
-
-- Secure User Authentication
-- Login & Registration System
-- Image Upload Support
-- Complaint Submission APIs
-- Issue Management
-- Department-wise Complaint Assignment
-- Status Tracking
-- RESTful Backend APIs
-- MongoDB Database Integration
-- Clean Layered Architecture
-
-**Tech Stack**
-
-Spring Boot • Spring Data JPA • Hibernate • MySQL • REST APIs
+* 💻 **Solved 2000+ algorithmic problems** across LeetCode, CodeChef, and Codeforces.
+* 🏅 **Participated in 100+ coding contests** showing strong runtime optimization skills.
+* ⚡ Passionate about space-time complexity optimization and robust low-level design.
 
 ---
 
-## 📚 Sharp
+## 📊 GitHub Stats & Activity
 
-A social platform focused on educational content sharing and collaboration.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avina7061&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Avinash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avina7061&theme=radical&hide_border=true" alt="Avinash's GitHub Streak" width="48%" />
+</p>
 
-### Features
-
-- User Authentication
-- Real-time Chat
-- Post Sharing
-- Notifications
-- User Profiles
-- Responsive Design
-
-**Tech Stack**
-
-React • Node.js • Express.js • MongoDB • Socket.io
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avina7061&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
+</p>
 
 ---
 
-# 🏆 Competitive Programming
-
-- ⭐ **CodeChef 3★ Programmer**
-- 👨‍🎓 **Codeforces Pupil**
-- 🚀 **LeetCode Rating: 1900+**
-- 💻 **Solved 2000+ algorithmic problems** across LeetCode, CodeChef, Codeforces, and other coding platforms.
-- 🏅 **Participated in 100+ coding contests** across LeetCode, CodeChef, and Codeforces.
-- ⚡ Passionate about problem-solving, data structures & algorithms, and writing efficient, optimized solutions.
+## 🌱 Currently Learning & Goals
+- 🔐 Spring Security & JWT Authentication
+- 🏗️ Advanced Microservices & Backend System Design
+- 🏎️ Database Optimization & Query Tuning
+- 🤝 Contributing back to Open Source projects
 
 ---
 
-# 🌱 Currently Learning
-
-- Spring Security
-- JWT Authentication
-- Advanced Spring Boot
-- Backend System Design
-- Database Optimization
-
----
-
-# 📈 GitHub Goals
-
-- Build production-ready backend applications
-- Contribute to Open Source
-- Explore scalable software architecture
-- Continuously improve problem-solving skills
+## 🎓 Education
+* **Lakshmi Narain College of Technology, Bhopal**  
+  *Bachelor of Technology - Computer Science Engineering*
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** avinashchy73@gmail.com
+<p align="left">
+  <a href="mailto:avinashchy73@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avinashchoudhary73/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/avina7061"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-💼 **LinkedIn:** [avinashchoudhary73](https://www.linkedin.com/in/avinashchoudhary73/)
-
-💻 **GitHub:** https://github.com/avina7061
-
----
+<br />
 
 > **"Consistency, curiosity, and continuous learning are the foundations of great software engineering." 🚀**
