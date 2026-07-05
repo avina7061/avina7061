@@ -201,7 +201,7 @@ Passionate about solving complex algorithmic problems and continuously sharpenin
 <p align="center">
   <img src="https://raw.githubusercontent.com/avina7061/avina7061/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-<i>Note: requires the snake-generator GitHub Action enabled on your profile repo.</i>
+
 </details>
 
 ---
