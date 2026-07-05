@@ -196,12 +196,37 @@ Passionate about solving complex algorithmic problems and continuously sharpenin
 </p>
 
 <details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avina7061/avina7061/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-<i>Note: requires the snake-generator GitHub Action enabled on your profile repo.</i>
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # runs every 6 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: avina7061
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </details>
 
 ---
